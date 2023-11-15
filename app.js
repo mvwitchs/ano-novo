@@ -29,7 +29,7 @@ function recusarConvite() {
         document.querySelector('section').style.display = 'none';
 
         // Exibe a imagem do Lord Sith
-        document.getElementById('sithImage').src = 'assets/sith.jpg'; // Substitua pelo caminho real da sua imagem
+        document.getElementById('sithImage').src = 'assets/sith.jpg';
         document.getElementById('sithImage').style.display = 'block';
     }
 }
